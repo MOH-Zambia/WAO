@@ -1,0 +1,217 @@
+Location,Type,Demand
+CHADIZA,CLINICAL OFFICER,5
+CHAMA,CLINICAL OFFICER,4
+chipata,CLINICAL OFFICER,3
+Chongwe District,CLINICAL OFFICER,10
+Kabuta District,CLINICAL OFFICER,10
+Kafue District,CLINICAL OFFICER,10
+Kalomo District,CLINICAL OFFICER,3
+Kaoma,CLINICAL OFFICER,0
+Kasama,CLINICAL OFFICER,5
+Kitwe District,CLINICAL OFFICER,1
+Livingstone District,CLINICAL OFFICER,0
+Luampa,CLINICAL OFFICER,100
+Lusaka,CLINICAL OFFICER,0
+Mongu,CLINICAL OFFICER,0
+Mununga District,CLINICAL OFFICER,15
+Nalolo,CLINICAL OFFICER,0
+Nchenlenge District,CLINICAL OFFICER,15
+NGABWE,CLINICAL OFFICER,99
+Nkeyema,CLINICAL OFFICER,0
+Nyimba,CLINICAL OFFICER,40
+Rufunsa,CLINICAL OFFICER,0
+Sikongo,CLINICAL OFFICER,0
+Solwezi,CLINICAL OFFICER,0
+Solwezi2,CLINICAL OFFICER,5
+CHADIZA,ENROLLED MIDWIFE,3
+CHAMA,ENROLLED MIDWIFE,3
+chipata,ENROLLED MIDWIFE,89
+Chongwe District,ENROLLED MIDWIFE,10
+Kabuta District,ENROLLED MIDWIFE,12
+Kafue District,ENROLLED MIDWIFE,10
+Kalomo District,ENROLLED MIDWIFE,0
+Kaoma,ENROLLED MIDWIFE,0
+Kasama,ENROLLED MIDWIFE,1
+Kitwe District,ENROLLED MIDWIFE,5
+Livingstone District,ENROLLED MIDWIFE,0
+Luampa,ENROLLED MIDWIFE,300
+Lusaka,ENROLLED MIDWIFE,0
+Mongu,ENROLLED MIDWIFE,0
+Mununga District,ENROLLED MIDWIFE,8
+Nalolo,ENROLLED MIDWIFE,0
+Nchenlenge District,ENROLLED MIDWIFE,20
+NGABWE,ENROLLED MIDWIFE,20
+Nkeyema,ENROLLED MIDWIFE,0
+Nyimba,ENROLLED MIDWIFE,5
+Rufunsa,ENROLLED MIDWIFE,0
+Sikongo,ENROLLED MIDWIFE,0
+Solwezi,ENROLLED MIDWIFE,0
+Solwezi2,ENROLLED MIDWIFE,0
+CHADIZA,GENERAL NURSE,5
+CHAMA,GENERAL NURSE,6
+chipata,GENERAL NURSE,100
+Chongwe District,GENERAL NURSE,10
+Kabuta District,GENERAL NURSE,10
+Kafue District,GENERAL NURSE,20
+Kalomo District,GENERAL NURSE,6
+Kaoma,GENERAL NURSE,0
+Kasama,GENERAL NURSE,3
+Kitwe District,GENERAL NURSE,0
+Livingstone District,GENERAL NURSE,0
+Luampa,GENERAL NURSE,23
+Lusaka,GENERAL NURSE,0
+Mongu,GENERAL NURSE,0
+Mununga District,GENERAL NURSE,25
+Nalolo,GENERAL NURSE,0
+Nchenlenge District,GENERAL NURSE,35
+NGABWE,GENERAL NURSE,209
+Nkeyema,GENERAL NURSE,0
+Nyimba,GENERAL NURSE,0
+Rufunsa,GENERAL NURSE,0
+Sikongo,GENERAL NURSE,0
+Solwezi,GENERAL NURSE,0
+Solwezi2,GENERAL NURSE,0
+CHADIZA,HIV Nurse Practitioner,2
+CHAMA,HIV Nurse Practitioner,5
+chipata,HIV Nurse Practitioner,2
+Chongwe District,HIV Nurse Practitioner,5
+Kabuta District,HIV Nurse Practitioner,2
+Kafue District,HIV Nurse Practitioner,5
+Kalomo District,HIV Nurse Practitioner,1
+Kaoma,HIV Nurse Practitioner,0
+Kasama,HIV Nurse Practitioner,1
+Kitwe District,HIV Nurse Practitioner,1
+Livingstone District,HIV Nurse Practitioner,0
+Luampa,HIV Nurse Practitioner,1
+Lusaka,HIV Nurse Practitioner,0
+Mongu,HIV Nurse Practitioner,0
+Mununga District,HIV Nurse Practitioner,4
+Nalolo,HIV Nurse Practitioner,0
+Nchenlenge District,HIV Nurse Practitioner,5
+NGABWE,HIV Nurse Practitioner,1
+Nkeyema,HIV Nurse Practitioner,0
+Nyimba,HIV Nurse Practitioner,0
+Rufunsa,HIV Nurse Practitioner,0
+Sikongo,HIV Nurse Practitioner,0
+Solwezi,HIV Nurse Practitioner,0
+Solwezi2,HIV Nurse Practitioner,0
+CHADIZA,ICT OFFICER,1
+CHAMA,ICT OFFICER,1
+chipata,ICT OFFICER,8
+Chongwe District,ICT OFFICER,2
+Kabuta District,ICT OFFICER,1
+Kafue District,ICT OFFICER,2
+Kalomo District,ICT OFFICER,1
+Kaoma,ICT OFFICER,0
+Kasama,ICT OFFICER,1
+Kitwe District,ICT OFFICER,0
+Livingstone District,ICT OFFICER,0
+Luampa,ICT OFFICER,4
+Lusaka,ICT OFFICER,0
+Mongu,ICT OFFICER,0
+Mununga District,ICT OFFICER,1
+Nalolo,ICT OFFICER,0
+Nchenlenge District,ICT OFFICER,2
+NGABWE,ICT OFFICER,0
+Nkeyema,ICT OFFICER,0
+Nyimba,ICT OFFICER,0
+Rufunsa,ICT OFFICER,0
+Sikongo,ICT OFFICER,0
+Solwezi,ICT OFFICER,0
+Solwezi2,ICT OFFICER,0
+CHADIZA,Laboratory Technologist,3
+CHAMA,Laboratory Technologist,6
+chipata,Laboratory Technologist,20
+Chongwe District,Laboratory Technologist,6
+Kabuta District,Laboratory Technologist,5
+Kafue District,Laboratory Technologist,5
+Kalomo District,Laboratory Technologist,0
+Kaoma,Laboratory Technologist,0
+Kasama,Laboratory Technologist,8
+Kitwe District,Laboratory Technologist,0
+Livingstone District,Laboratory Technologist,0
+Luampa,Laboratory Technologist,2
+Lusaka,Laboratory Technologist,0
+Mongu,Laboratory Technologist,0
+Mununga District,Laboratory Technologist,9
+Nalolo,Laboratory Technologist,0
+Nchenlenge District,Laboratory Technologist,5
+NGABWE,Laboratory Technologist,0
+Nkeyema,Laboratory Technologist,0
+Nyimba,Laboratory Technologist,0
+Rufunsa,Laboratory Technologist,100
+Sikongo,Laboratory Technologist,0
+Solwezi,Laboratory Technologist,0
+Solwezi2,Laboratory Technologist,0
+CHADIZA,Medical Licentiate,0
+CHAMA,Medical Licentiate,4
+chipata,Medical Licentiate,4
+Chongwe District,Medical Licentiate,4
+Kabuta District,Medical Licentiate,15
+Kafue District,Medical Licentiate,10
+Kalomo District,Medical Licentiate,1
+Kaoma,Medical Licentiate,0
+Kasama,Medical Licentiate,1
+Kitwe District,Medical Licentiate,1
+Livingstone District,Medical Licentiate,0
+Luampa,Medical Licentiate,34
+Lusaka,Medical Licentiate,0
+Mongu,Medical Licentiate,0
+Mununga District,Medical Licentiate,20
+Nalolo,Medical Licentiate,0
+Nchenlenge District,Medical Licentiate,25
+NGABWE,Medical Licentiate,400
+Nkeyema,Medical Licentiate,0
+Nyimba,Medical Licentiate,34
+Rufunsa,Medical Licentiate,22
+Sikongo,Medical Licentiate,0
+Solwezi,Medical Licentiate,0
+Solwezi2,Medical Licentiate,0
+CHADIZA,PHARMACIST,1
+CHAMA,PHARMACIST,2
+chipata,PHARMACIST,500
+Chongwe District,PHARMACIST,2
+Kabuta District,PHARMACIST,6
+Kafue District,PHARMACIST,4
+Kalomo District,PHARMACIST,0
+Kaoma,PHARMACIST,0
+Kasama,PHARMACIST,30
+Kitwe District,PHARMACIST,2
+Livingstone District,PHARMACIST,0
+Luampa,PHARMACIST,9
+Lusaka,PHARMACIST,0
+Mongu,PHARMACIST,0
+Mununga District,PHARMACIST,18
+Nalolo,PHARMACIST,0
+Nchenlenge District,PHARMACIST,15
+NGABWE,PHARMACIST,60
+Nkeyema,PHARMACIST,0
+Nyimba,PHARMACIST,1
+Rufunsa,PHARMACIST,4
+Sikongo,PHARMACIST,0
+Solwezi,PHARMACIST,0
+Solwezi2,PHARMACIST,0
+CHADIZA,REGISTERED MIDWIFE,4
+CHAMA,REGISTERED MIDWIFE,5
+chipata,REGISTERED MIDWIFE,3
+Chongwe District,REGISTERED MIDWIFE,50
+Kabuta District,REGISTERED MIDWIFE,25
+Kafue District,REGISTERED MIDWIFE,30
+Kalomo District,REGISTERED MIDWIFE,6
+Kaoma,REGISTERED MIDWIFE,0
+Kasama,REGISTERED MIDWIFE,0
+Kitwe District,REGISTERED MIDWIFE,0
+Livingstone District,REGISTERED MIDWIFE,0
+Luampa,REGISTERED MIDWIFE,1
+Lusaka,REGISTERED MIDWIFE,0
+Mongu,REGISTERED MIDWIFE,0
+Mununga District,REGISTERED MIDWIFE,30
+Nalolo,REGISTERED MIDWIFE,0
+Nchenlenge District,REGISTERED MIDWIFE,35
+NGABWE,REGISTERED MIDWIFE,3
+Nkeyema,REGISTERED MIDWIFE,0
+Nyimba,REGISTERED MIDWIFE,68
+Rufunsa,REGISTERED MIDWIFE,22
+Sikongo,REGISTERED MIDWIFE,0
+Solwezi,REGISTERED MIDWIFE,0
+Solwezi2,REGISTERED MIDWIFE,0
